@@ -1,0 +1,2 @@
+# Fake-News-detection-Semantic-Anlalysis-and-Rewrtten-True-News-API-with-Summarization-
+Built a Fake News Detection System using an ensemble of Logistic Regression and XGBoost with NLP techniques for content analysis. Integrated Google Fact Check and Safe Browsing APIs for real-time verification and website safety checks. Developed a Streamlit application supporting text, CSV, and URL-based news analysis.
